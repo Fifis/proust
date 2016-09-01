@@ -6,7 +6,7 @@ Translated from the French by C. K. Scott Moncrieff
 The text of Marcel Proust’s “Remembrance of Things Past” taken from
 https://ebooks.adelaide.edu.au/p/proust/marcel/
 
-Stripped of possessive “'s” and characters outside the scope [a-zA-Z ].
+Stripped of possessive “'s” and characters outside the scope [a-zA-Z ]. Hyphens were replaced with spaces.
 
 Original copyright notice
 -------------------------
